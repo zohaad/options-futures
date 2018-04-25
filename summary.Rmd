@@ -1,0 +1,20 @@
+---
+title: "Options and Futures"
+author: "Zohaad Fazal"
+date: "2018-04-25"
+#geometry: margin=3cm
+output: 
+  pdf_document:
+    latex_engine: xelatex
+sansfont: Georgia
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Summary
+
+hello
